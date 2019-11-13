@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 00:04:02</sys_created_on>
+        <sys_id>e1dc0386018d00107f44a4ba23190652</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_ccw1547_hw_message.x_snc_ccw1547_hw.hello_user</sys_name>
+        <sys_package display_value="CCW1547 Hello World" source="x_snc_ccw1547_hw">a5ab4346018d00107f44a4ba23190621</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1547 Hello World">a5ab4346018d00107f44a4ba23190621</sys_scope>
+        <sys_security_acl display_value="x_snc_ccw1547_hw_message">e9dc0386018d00107f44a4ba2319064f</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_e1dc0386018d00107f44a4ba23190652</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 00:04:02</sys_updated_on>
+        <sys_user_role display_value="x_snc_ccw1547_hw.hello_user" name="x_snc_ccw1547_hw.hello_user">dcebc306018d00107f44a4ba2319060a</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
